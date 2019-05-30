@@ -7,7 +7,7 @@ import java.sql.SQLException;
 
 /**
  * Can connect and disconnect to a SQL database and provide a gettable Connection object once the connect method has been called without an SQL Exception.
- * @author mattroberts
+ * @author matt roberts
  */
 public class DBConnectionManager {
     
