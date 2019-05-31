@@ -1,5 +1,5 @@
 
-package sql_project;
+package dbconnectionmanager;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
