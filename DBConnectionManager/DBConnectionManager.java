@@ -47,7 +47,7 @@ public class DBConnectionManager {
     private String portNumber = "3306";
 
     /**
-     * Connect using username "root" and password="choosePassword"
+     * Connect using username "root" and password "choosePassword"
      */
     public DBConnectionManager() {
     
